@@ -1,0 +1,160 @@
+header{
+    min-height: 100px;
+    background-color: #fcdb00 !important;
+}
+
+.custom_nav{
+    padding: 35px 0;
+}
+.custom_nav ul li a{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: black !important;
+    margin-left: 10px;
+}
+
+
+.slider{
+    padding: 40px 0;
+    min-height: 600px;
+    background-color: #fcdb00 !important;
+    
+}
+.slider_text{
+    padding: 40px 0;
+}
+.slider_text h1{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 28px;
+    padding: 20px 0;
+    padding: 20px 0;
+    color: black;
+    font-weight: 700;
+}
+.slider_text h2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+    padding: 20px 0;
+    color: #212529;
+    font-weight: 400;
+}
+.slider_text p{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 20px 0;
+    color: #62592A;
+}
+.img_g{}
+.slider_img{
+    padding-left: 100px;
+}
+
+.img_carosal{
+    padding: 40px 0;
+}
+
+.features{
+    padding: 40px 0;
+}
+.features_head{}
+.features_head h1{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+.features_head h2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.features_body{
+    padding: 30px 0;
+}
+.img_body{
+    position: absolute;
+}
+.body_text{
+    margin-left: 80px;
+}
+.body_text h1{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+.body_text p{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+footer{
+    min-height: 750px;
+    background-color: #010101;
+    padding: 40px 0;
+}
+.footer_head{}
+.footer_text{}
+.footer_text h1{
+    font-family: 'PT Sans', sans-serif;
+    padding: 15px 0;
+    font-size: 25px;
+    font-weight: 700;
+    color: #fcdb00;
+}
+.footer_text h3{
+    font-family: 'PT Sans', sans-serif;
+    padding: 15px 0;
+   font-size: 15px;
+    font-weight: 400;
+    color: whitesmoke; 
+}
+.buttons{
+    padding: 40px 0;
+}
+.custom_btn{
+    font-family: 'PT Sans', sans-serif;
+    padding: 9px;
+    margin-top: 20px;
+    width: 35%;
+    font-weight: 400;
+}
+
+.custom_btn2{
+    font-family: 'PT Sans', sans-serif;
+    padding: 9px;
+    background-color: #fcdb00;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+
+.down_icons{
+    padding: 40px 0;
+}
+.last_text{
+    margin-top: 30px;
+}
+.last_text h1{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.last_text p{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+

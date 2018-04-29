@@ -1,0 +1,130 @@
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+    .slider{
+        padding: 0px;
+    }
+    .slider_text{
+        padding: 0px;
+    }
+    .slider_img {
+    padding-left: 100px;
+    margin-top: 30px;
+}
+    .custom_btn2 {
+    font-family: 'PT Sans', sans-serif;
+    padding: 9px;
+    background-color: #fcdb00;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 0px;
+    text-transform: uppercase;
+}
+.features_body {
+    padding: 10px 0;
+    margin-top: 30px;
+}
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .header {
+    min-height: 100px;
+    background-color: #fcdb00 !important;
+    padding: 10px 0;
+}
+    .slider {
+    min-height: 600px;
+    background-color: #fcdb00 !important;
+    text-align: center;
+    padding: 0px;
+}
+    .slider_text{
+        padding: 0px;
+    }
+    .img_g {
+    padding: 25px;
+}
+   .img_g {
+    margin-top: -20px;
+    padding: 40px 0;
+}
+    .slider_img {
+    padding-left: 0px;
+}
+.custom_btn2 {
+    font-family: 'PT Sans', sans-serif;
+    padding: 9px;
+    background-color: #fcdb00;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 0px;
+    text-transform: uppercase;
+}
+}
+
+@media (max-width: 575.98px) { 
+
+
+      .header {
+    min-height: 100px;
+    background-color: #fcdb00 !important;
+    padding: 10px 0;
+}
+    .slider {
+    min-height: 600px;
+    background-color: #fcdb00 !important;
+    text-align: center;
+    padding: 0px;
+}
+    .slider_text{
+        padding: 0px;
+    }
+    .img_g {
+    padding: 25px;
+}
+   .img_g {
+    margin-top: -20px;
+    padding: 40px 0;
+}
+    .slider_img {
+    padding-left: 0px;
+}
+.custom_btn2 {
+    font-family: 'PT Sans', sans-serif;
+    padding: 9px;
+    background-color: #fcdb00;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 0px;
+    text-transform: uppercase;
+}
+
+
+}
+
+
+
+
+
+
+
+/*/ Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
